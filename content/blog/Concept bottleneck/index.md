@@ -2,11 +2,13 @@
 ---
 title: Concept Bottleneck Model
 summary: Use Concept Bottleneck to interprete NN's decisions.
-date: 2023-10-25
+date: 2020-07
 authors:
   - admin
 tags:
   - Concept Bottleneck
+  - Interpretable
+  - Computer vision
 image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 
