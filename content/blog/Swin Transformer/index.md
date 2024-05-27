@@ -10,7 +10,7 @@ tags:
   - Transformer
   - Computer Vision
 image:
-  caption: 'Image credit: [**Unsplash**](./image.png)'
+  caption: 'Image credit: [**Unsplash**](./image-2.png)'
 
 ---
 
@@ -27,8 +27,9 @@ Swin Transformer在计算注意力时分成多个层级，每个层级将样本�
 典型的transformer结构计算全局的自注意力，而这样的计算复杂度与token的平方成正比，这使得它不适合许多需要大量tokens进行密集预测或表示高分辨率图像的视觉问题。
 
 全局自注意力和基于窗口的注意力计算复杂度：
-$Ω(MSA) = 4hwC2 + 2(hw)2C,$
-$Ω(W-MSA) = 4hwC2 + 2M 2hwC$
+$$Ω(MSA) = 4hwC2 + 2(hw)2C,$$    
+
+$$Ω(W-MSA) = 4hwC2 + 2M 2hwC$$
 
 ![Alt text](./image-1.png)
 

@@ -1,7 +1,7 @@
 
 ---
 title: INTERPRETING CLIP’S IMAGE REPRESENTATION VIA TEXT-BASED DECOMPOSITION
-summary: ICLR interprete .
+summary: ICLR 2024
 date: 2024-1-22
 authors:
   - admin
