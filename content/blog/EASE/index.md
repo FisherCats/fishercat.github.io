@@ -1,6 +1,6 @@
 ---
 title: Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning
-summary: CVPR2024|Every task train an adapter, and utilize prototypical classifier to keep knowledge.
+summary: CVPR2024 | Every task train an adapter, and utilize prototypical classifier to keep knowledge.
 date: 2024-05-27
 authors:
   - admin

@@ -17,7 +17,7 @@ image:
 
 ![Alt text](image.png)
 
-Left: Few-shot prototypes ck are computed as the mean of embedded support examples for each class. Right: Zero-shot prototypes ck are produced by embedding class meta-data vk. In either case, embedded query points are classified via a softmax over distances to class prototypes: $p\phi(y = k|x) ∝ exp(−d(f_{\phi}(x), c_k))$.
+Left: Few-shot prototypes ck are computed as the mean of embedded support examples for each class. Right: Zero-shot prototypes ck are produced by embedding class meta-data vk. In either case, embedded query points are classified via a softmax over distances to class prototypes: $p\varphi(y = k|x) ∝ exp(−d(f_{\phi}(x), c_k))$.
 
 ## Prototypical Network
 
