@@ -1,11 +1,20 @@
 
+---
+title: Concept Bottleneck Model
+date: 2023-10-25
+authors:
+  - admin
+tags:
+  - Concept Bottleneck
+---
+
 ## Construct A concept bottleneck model
 
 将一个黑盒模型加上一个中间概念层，使得模型将输入特征映射到中间概念层中，再由概念层映射到目标分类层。    
 这样可以展现每个输入数据对于中间概念的得分，表现出模型是否学习到正确的属及其程度，增强模型的可解释性。    
 如此CBM的关键就是概念层的构建。本文的两个数据集OAI和CUB200都是由人工标注的概念属性
 
-![Alt text](image.png)
+![Alt text](featured.png)
 ## Application
 
 ### dataset with human annotation
