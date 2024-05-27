@@ -1,4 +1,3 @@
-
 ---
 title: INTERPRETING CLIP’S IMAGE REPRESENTATION VIA TEXT-BASED DECOMPOSITION
 summary: ICLR 2024
@@ -11,7 +10,6 @@ tags:
   - Interpretable
 image:
   caption: 'Image credit: [**Unsplash**](./image.png)'
-
 ---
 
 
