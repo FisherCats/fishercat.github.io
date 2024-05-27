@@ -1,8 +1,7 @@
-
 ---
 title: Swin Transformer
 summary: ICCV 2021 best paper award.
-date: 2021-10
+date: 2024-03-06
 authors:
   - admin
 tags:
@@ -13,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](./image-2.png)'
 
 ---
-
+> 原文链接： [Swin_Transformer](https://ieeexplore.ieee.org/document/9710580/)
 ## Model Structure
 ![Alt text](./image.png)
 ![Alt text](./image-2.png)
