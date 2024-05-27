@@ -1,11 +1,15 @@
 
 ---
 title: Concept Bottleneck Model
+summary: Use Concept Bottleneck to interprete NN's decisions.
 date: 2023-10-25
 authors:
   - admin
 tags:
   - Concept Bottleneck
+image:
+  caption: 'Image credit: [**Unsplash**](featured.png)'
+
 ---
 
 ## Construct A concept bottleneck model
