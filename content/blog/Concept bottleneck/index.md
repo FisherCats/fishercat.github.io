@@ -8,7 +8,7 @@ authors:
 tags:
   - Concept Bottleneck
 image:
-  caption: 'Image credit: [**Unsplash**](featured.png)'
+  caption: 'Image credit: [**Unsplash**](./featured.png)'
 
 ---
 
@@ -18,7 +18,7 @@ image:
 这样可以展现每个输入数据对于中间概念的得分，表现出模型是否学习到正确的属及其程度，增强模型的可解释性。    
 如此CBM的关键就是概念层的构建。本文的两个数据集OAI和CUB200都是由人工标注的概念属性
 
-![Alt text](featured.png)
+![Alt text](./featured.png)
 ## Application
 
 ### dataset with human annotation
