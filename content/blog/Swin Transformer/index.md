@@ -27,8 +27,13 @@ Swin Transformer在计算注意力时分成多个层级，每个层级将样本�
 典型的transformer结构计算全局的自注意力，而这样的计算复杂度与token的平方成正比，这使得它不适合许多需要大量tokens进行密集预测或表示高分辨率图像的视觉问题。
 
 全局自注意力和基于窗口的注意力计算复杂度：
-$$Ω(MSA) = 4hwC2 + 2(hw)2C$$
-$$Ω(W-MSA) = 4hwC2 + 2M 2hwC,$$
+$$
+Ω(MSA) = 4hwC2 + 2(hw)2C,
+$$
+
+$$
+Ω(W-MSA) = 4hwC2 + 2M 2hwC
+$$
 
 ![Alt text](./image-1.png)
 
@@ -42,7 +47,9 @@ $$Ω(W-MSA) = 4hwC2 + 2M 2hwC,$$
 经过这样的变换后，一个window中可能包括变换前的多个不相邻的子window，所以我们采取一种mask的方式来限制跨window的自注意力计算。通过cyclic-shifted，窗口的数量与常规窗口分区的数量相同，因此也很有效。
 
 ## Relative position bias
-$$Attention(Q,K,V) = \text{SoftMax}(QK^T/\sqrt{d}+B)V$$
+$$
+Attention(Q,K,V) = \text{SoftMax}(QK^T/\sqrt{d}+B)V
+$$
 Q,K,V是查询,键和值矩阵，d是Q和K的维度。
 
 ![Alt text](./image-5.png)
