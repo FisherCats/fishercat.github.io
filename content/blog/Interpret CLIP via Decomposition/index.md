@@ -9,12 +9,11 @@ tags:
   - Multi-modal
   - Interpretable
 image:
-  caption: 'Image credit: [**Unsplash**](./image.png)'
+  caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
 
+> 原文链接：[Interpretable CLIP](http://arxiv.org/abs/2310.05916)
 
 ## Overview 
 
-![Alt text](image.png)
-
-> 原文链接：[link](http://arxiv.org/abs/2310.05916)
+![Alt text](featured.png)

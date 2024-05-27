@@ -9,13 +9,13 @@ tags:
   - Transformer
   - Computer Vision
 image:
-  caption: 'Image credit: [**Unsplash**](./image-2.png)'
+  caption: 'Image credit: [**Unsplash**](./featured.png)'
 
 ---
 > 原文链接： [Swin_Transformer](https://ieeexplore.ieee.org/document/9710580/)
 ## Model Structure
 ![Alt text](./image.png)
-![Alt text](./image-2.png)
+![Alt text](./featured.png)
 Swin Transformer在计算注意力时分成多个层级，每个层级将样本划分为不同大小的windows，然后在每一个windows中计算自注意力。   
 不同的层级windows的形状不同，所以可以使相邻层级之间的注意力计算产生联系。
 ### patch merging
