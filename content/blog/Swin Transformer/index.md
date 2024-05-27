@@ -1,7 +1,7 @@
 
 ---
 title: Swin Transformer
-summary: **ICCV** 2021 best paper award.
+summary: ICCV 2021 best paper award.
 date: 2021-10
 authors:
   - admin
