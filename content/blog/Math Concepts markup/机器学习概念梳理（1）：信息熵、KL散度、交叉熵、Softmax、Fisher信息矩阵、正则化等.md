@@ -1,4 +1,16 @@
-﻿## 信息熵：
+﻿---
+title: Math Concepts markup
+summary: Some explaination of math concepts, such as cross entropy, KL divergence, Softmax, and this post will be updated when some new concepts trick me.
+date: 2024-06-05
+authors:
+  - admin
+tags:
+  - Concepts
+  - Math
+---
+
+
+## 信息熵：
 $H(x) = \sum_{k=1}^{n}p_klog_2p_k$
 ## KL散度：
 相对熵 = KL散度
