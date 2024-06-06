@@ -7,8 +7,9 @@ authors:
 tags:
   - Concepts
   - Math
+image:
+  caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
-
 
 ## 信息熵：
 $H(x) = \sum_{k=1}^{n}p_klog_2p_k$
