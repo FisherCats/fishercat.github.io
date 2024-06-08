@@ -1,7 +1,7 @@
 ---
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:fishercat_@outlook.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/FisherCats?tab=repositories
