@@ -7,6 +7,8 @@ authors:
 tags:
   - Concepts
   - Math
+image:
+  caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
 
 ## 信息熵：
