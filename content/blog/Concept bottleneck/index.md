@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 
 ---
-> 原文链接：[Concept bottleneck model](https://arxiv.org/abs/2007.04612)
+> [原文](https://arxiv.org/abs/2007.04612)
 ## Construct A concept bottleneck model
 
 将一个黑盒模型加上一个中间概念层，使得模型将输入特征映射到中间概念层中，再由概念层映射到目标分类层。    

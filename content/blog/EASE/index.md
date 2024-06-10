@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
 
-> 原文链接：[EASE](http://arxiv.org/abs/2403.12030)
+> [原文](http://arxiv.org/abs/2403.12030)
 
 ## Core idea
 1. 每个任务训练一个Adapter，使得学习新任务时几乎不会对旧任务的知识产生影响。

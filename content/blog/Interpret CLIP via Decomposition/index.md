@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
 
-> 原文链接：[Interpretable CLIP](http://arxiv.org/abs/2310.05916)
+> [原文](http://arxiv.org/abs/2310.05916)
 
 ## Overview 
 

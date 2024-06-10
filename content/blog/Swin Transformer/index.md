@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 
 ---
-> 原文链接： [Swin_Transformer](https://ieeexplore.ieee.org/document/9710580/)
+> [原文](https://ieeexplore.ieee.org/document/9710580/)
 ## Model Structure
 ![Alt text](./image.png)
 ![Alt text](./featured.png)

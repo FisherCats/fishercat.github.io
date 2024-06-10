@@ -1,16 +1,17 @@
 ---
 title: MCPNet,An Interpretable Classifier via Multi-Level Concept Prototypes
-summary: It propose a new method for classification, by calculating the similarity of multi-level distribution between instance and prototype.
+summary: CVPR2024 | It propose a new method for classification, by calculating the similarity of multi-level distribution between instance and prototype.
 date: 2024-06-10
 authors:
   - admin
 tags:
   - prototype
   - Interpretable
+  - Prototypical classifier
 image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
-> [原文链接](http://arxiv.org/abs/2404.08968)
+> [原文](http://arxiv.org/abs/2404.08968)
 
 ## Core idea
 

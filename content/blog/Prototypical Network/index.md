@@ -1,6 +1,6 @@
 ---
 title: Prototypical Network
-summary: It propose a new method of classification, by calculating the distance between instance and prototype.
+summary: NIPS2017 | It propose a new method of classification, by calculating the distance between instance and prototype.
 date: 2024-05-27
 authors:
   - admin
@@ -10,7 +10,7 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](./featured.png)'
 ---
-
+> [原文](http://arxiv.org/abs/1703.05175)
 ## Core idea
 
 作者提出了一种新的分类方式，旨在利用类别的原型完成分类任务。通过计算测试数据与原型的“距离”，可以判断其属于哪一类。
