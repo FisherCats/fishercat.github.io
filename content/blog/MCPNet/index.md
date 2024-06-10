@@ -43,7 +43,7 @@ $$\mathcal{L}^{CKA}(S_l) = \frac{2}{M_l(M_l-1)}\sum^{M_l}_{i=1}\sum^{M_l}_{j=1}\
 $$\mathcal{L} = \sum^L_{l=1}\mathcal{L}^{CKA}(S_l) + \lambda_{CCD}\sum_{x_i \in X}\mathcal{L}^{CCD}(x_i)$$
 
 ### Test flow
-测试时与[Prototypical Network](../Prototypical%20Network/) 相似，也是计算与原型的相似度（距离），完成分类，可解释性更强。
+测试时与[Prototypical Network](../prototypical-network/) 相似，也是计算与原型的相似度（距离），完成分类，可解释性更强。
 
 ## Experiments
 
