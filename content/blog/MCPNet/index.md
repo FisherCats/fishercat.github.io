@@ -1,7 +1,7 @@
 ---
 title: MCPNet,An Interpretable Classifier via Multi-Level Concept Prototypes
 summary: It propose a new method for classification, by calculating the similarity of multi-level distribution between instance and prototype.
-date: 2024-05-27
+date: 2024-06-10
 authors:
   - admin
 tags:
