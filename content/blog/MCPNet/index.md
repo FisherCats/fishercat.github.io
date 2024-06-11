@@ -56,3 +56,7 @@ $$\mathcal{L} = \sum^L_{l=1}\mathcal{L}^{CKA}(S_l) + \lambda_{CCD}\sum_{x_i \in 
 
 此外，基于原型的方法相比于其他方法在小样本领域更加有效。     
 ![Alt text](image-6.png)
+
+### Ablation Study
+![Alt text](image-8.png)
+作者对于提出的两个方法也进行了消融对比，CCD loss的相对提升很大。
